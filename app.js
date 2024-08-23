@@ -45,7 +45,7 @@
           border-radius: 8px;
           box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
           width: 800px; /* Set width in pixels */
-          height: 450px; /* Set height in pixels */
+          height: 600px; /* Set height in pixels */
       }
 
       /* Footer styling */
@@ -81,7 +81,7 @@
   <p>This dashboard provides insights from COVID-19 data from eight countries: Thailand, Mexico, Japan, Germany, Egypt, Brazil, highlighting the number of confirmed cases, recovered cases, deaths from 22 January 2020 to 16 April 2022. Combination of timeseries chart and score card can ensure better visibility of the trends with number.</p>
 
   <!-- Embed Looker Studio iframe -->
- <iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/6d890109-00c6-4138-846b-0bdf4232b020/page/HrD4D" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+ <iframe width="800" height="600" src="https://lookerstudio.google.com/embed/reporting/6d890109-00c6-4138-846b-0bdf4232b020/page/HrD4D" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
   <!-- Footer Banner -->
 <div class="footer">
